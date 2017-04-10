@@ -105,7 +105,7 @@ h.FaceAlpha = 'interp';
 alpha(h,Z); % depth-scaled opacity
 
 % Alternatively (for constant 50\% opacity):
-%    alpha(h,0.5*ones(size(Z));
+%    alpha(h,0.5*ones(size(Z)));
 
 %% Save me
 % To save the figure programmatically use <matlab:doc(saveas) saveas>).
