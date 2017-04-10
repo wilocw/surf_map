@@ -12,3 +12,5 @@ This repository contains an classic MATLAB script `surf_map.m`, as well as a
 live script `surf_map.mlx`. The tutorial can be viewed in PDF or HTML format, 
 `doc.pdf` and `doc.html` respectively, or within MATLAB by running `run_for_help`
 or `showdemo('surf_map')` in the Command Window.
+
+![surf_map output](example_surface.png)
